@@ -1,11 +1,13 @@
 about:
-  description: Infrastructor is a server provisioning tool written in Groovy
+  description:
+  |
+    Infrastructor is a server provisioning tool written in Groovy
   license: GPL-3.0
   homepage: https://infrastructor.io
   head: 75216ca
   archived: true
   latestVersion: 0.3.1
-  collectedAt: 2026-09-03T05:14:35Z
+  collectedAt: 2026-09-03T22:36:35Z
 timeline:
   created: 2017-05-01
   lastCommit: 2021-12-27
@@ -21,7 +23,7 @@ popularity:
 language:
   Groovy: 281094
   Java: 73
-totalLine: 281167
+totalBytes: 281167
 recent:
   last30d:
     since: 2026-08-04
