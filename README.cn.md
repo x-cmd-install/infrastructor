@@ -6,13 +6,25 @@
 
 Infrastructor is a server provisioning tool written in Groovy
 
-![infrastructor](https://repo.x-cmd.io/infrastructor.svg)
+![infrastructor](https://repo.x-cmd.io/infrastructor.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install infrastructor
 ```
+
+## 代码洞察
+
+合计: **7,633** 行代码（覆盖前 5 种语言、共 **161** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Groovy | 7,449 | 91 | 1,655 | 156 |
+| Sh | 100 | 109 | 25 | 1 |
+| Batch | 68 | 0 | 21 | 1 |
+| Bitbake | 14 | 0 | 1 | 2 |
+| Java | 2 | 0 | 1 | 1 |
 
 ## 源代码
 
@@ -25,11 +37,10 @@ x install infrastructor
 - **最新版本**: `0.3.1` (2020-02-10)
 - **最近提交**: 2021-12-27
 - **Release 含资产**: 1 个
-- **发布时间**: 2020-02-10T22:21:09Z
 
 ## 流行度
 
-- **Star**: 111 · **Fork**: 18 · **开放 issue**: 17 · **贡献者**: 2
+- **Star**: 112 · **Fork**: 18 · **开放 issue**: 17 · **贡献者**: 2
 
 ## 累计统计
 
@@ -40,20 +51,17 @@ x install infrastructor
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-## 代码规模
+## Release 资产
 
-合计: **7,633** 行代码（覆盖前 5 种语言、共 **161** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Groovy | 7,449 | 91 | 1,655 | 156 |
-| Sh | 100 | 109 | 25 | 1 |
-| Batch | 68 | 0 | 21 | 1 |
-| Bitbake | 14 | 0 | 1 | 2 |
-| Java | 2 | 0 | 1 | 1 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [infrastructor-0.3.1.zip](https://github.com/infrastructor/infrastructor/releases/download/0.3.1/infrastructor-0.3.1.zip) | 28.1 MiB | `other` |
 
 ## 改进这些数据
 
@@ -64,4 +72,4 @@ infrastructor 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:18:36Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:47:06Z._
